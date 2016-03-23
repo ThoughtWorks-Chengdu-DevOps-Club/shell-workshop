@@ -1,25 +1,22 @@
 # The *nix Command Line Workshop
-## Basic Concepts
-1. shell recommendation
-2. shell mannual - tldr   gem istall.
-3. pipeline, io redirection
-4. xargs (optional)
-5. ln , link types
+
+## 
+- io redirect
+- pipe
 
 ## Grouping
 ### Process
-- ctrl-z　挂起  挂起， 后台
-- jobs 列出
-- bg, fg 后台执行， 前置
+- ctrl-z
+- fg
 - top , ps 
 - kill , pkill
-- - grep
+- grep
 
 ### Network
 
 - ping
-- netstat, ss
-- curl (header)
+- netstat
+- curl
 - ssh
 - scp
 - ifconfig
@@ -29,9 +26,8 @@
 - tail
 
 ### file system
-- chmod *nix permission control
-- chown
-- du, df, tree
+- chmod *nix permission control, chgrg, chown
+- du, df
 - tar
 - find
 
